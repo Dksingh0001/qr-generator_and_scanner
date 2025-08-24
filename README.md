@@ -95,7 +95,7 @@ Distributed under the MIT License. See the `LICENSE` file for more information.
 
 ## 👨‍💻 Developer
 
-**Dilpreet Singh**
+**Deepak kumar Singh**
 - GitHub: [@Dksingh0001](https://github.com/Dksingh0001)
 
 ---
